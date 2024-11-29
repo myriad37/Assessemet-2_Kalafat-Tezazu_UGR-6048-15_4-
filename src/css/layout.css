@@ -1,0 +1,82 @@
+nav ul {
+    display:flex;
+    justify-content:left;
+    align-content: end;
+    
+    padding-left: 30px;
+    margin-top: 80px;  
+
+ 
+}
+.baba{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px;
+  
+}
+.emaye{
+    display: grid;
+    grid-template-columns:repeat(2,auto);
+    padding-left: 100px;
+    column-gap:30px;
+    justify-content: left;
+    margin-top: 50px;
+
+}
+.container{
+    display: flex;
+    justify-content:center ;
+    gap: 10px;
+
+}
+
+.gallery{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    grid-gap: 10px;
+    
+
+}
+.image-gallery .img{
+    width: 100%;
+    height: auto;
+    border: 4px;
+   
+   
+
+}
+
+.about{
+    line-height: 1.6;
+    width: 700px;
+
+}
+
+.contact p{
+    margin: 5px 0;
+}
+.bereket{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    column-gap: 200px;
+    
+}
+.biskut{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 200px;
+}
+.dorka{
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    gap: 20px;
+    padding: 20px;
+    
+}
+.ka ul {
+    display: flex;
+    justify-content: end;
+    font-size: 15px;
+    
+}

@@ -1,0 +1,314 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header h6{
+    color: white;
+    margin-bottom:0;
+    text-align: center;
+  
+}
+.ha{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+header {
+    background-image:radial-gradient(rgb(214, 210, 210) 10% ,rgb(116, 153, 183));
+    height: 250px;
+    width: auto;
+
+}
+header p{
+    padding-top: 30px;
+    
+}
+header h1{
+    color:rgb(16, 6, 53);
+    
+    font-size:55px;
+    padding-left: 200px;
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+nav{
+    padding-left: 200px;
+}
+
+nav ul li{
+    list-style: none;
+    border: 5px solid rgba(25, 40, 75, 0.459); 
+    background-color: rgba(25, 43, 75, 0.459);  
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li:hover{
+    border-color:rgb(20, 31, 58);
+    background-color: rgb(64, 114, 132);
+    transition: background-color infinite ;
+
+}
+
+.baba ,.emaye h5{
+    padding: 20px;
+}
+.blen{
+    padding-left:100px;
+
+}
+.baba  h2{
+    text-transform: capitalize;
+    margin-top: 10px;
+    color: rgb(63, 111, 174);
+    padding: 10px;
+}
+.baba  h3{
+    text-transform: capitalize;
+    padding: 7px;
+    font-weight:600;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.baba img{
+    width: 400px;
+    height: 200px;
+}
+.baba  ul li{
+    list-style: none;
+    text-transform: capitalize;
+    padding: 10px;
+}
+body{
+    background-color:rgb(207, 199, 199) ;
+}
+.baba a{
+    color: rgb(44, 115, 222);
+    text-decoration: underline;
+}
+.blen p{
+    line-height: 30px;
+}
+.imgg2{
+    line-height: 30px;
+}
+.kaka ul li{
+    font-weight: 100;
+   font-size: 15px;
+}
+.kaka li h4{
+    font-weight: 100;
+}
+.kaka li{
+    list-style: none;
+    font-size: 15px;
+}
+.kaka li a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-size: 15px;
+}
+.emaye p{
+    max-width: 300px;
+    text-align:start;
+    line-height: 30px;
+}
+.emaye h2{
+    text-transform: capitalize;
+    margin-top: 10px;
+    color: rgb(26, 17, 49);
+    padding: 10px;
+
+}
+.emaye h3{
+    text-transform: capitalize;
+    padding: 7px;
+    font-weight:600;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.emaye a{
+    color: rgb(28, 76, 142);
+    text-decoration: underline;
+}
+.emaye img{
+    height:200px;
+    width: 400px;
+}
+footer{
+    background-color:rgb(27, 37, 148);
+    height: 300px;
+    width: auto;
+    padding-top: 30px;
+    margin-top: 30px;
+    position: static;
+}
+
+footer img{
+
+    height: 75px;
+    width: 75px;
+}
+.abaye div {
+    padding-top: 10px;
+
+}
+
+footer p{
+    font-size: 15px;
+    line-height: 20px;
+    word-spacing: 5px;
+}
+footer li{
+    line-height: 30px;
+    list-style: none;
+}
+footer h3{
+    font-size: 20px;
+    padding:1px;
+    color: rgb(23, 25, 49);
+}
+
+.image-gallery{
+    padding-left:150px;
+    
+}
+.about{
+    margin-left:30px;
+    padding-left: 5px;
+    padding-right: 5px;
+   
+}
+.container{
+    height: 300px;
+}
+.container h3{
+    margin-top: 0;
+    color: rgb(22, 42, 102);
+}
+.about,.contact{
+    line-height: 1.6;
+    width: 500px;
+
+}
+.contact {
+    padding-right: 80px;
+}
+.contact p{
+    margin: 5px 0;
+}
+.about{
+    padding-right: 20px;
+}
+.about p{
+    text-indent: 2px;
+}
+
+.bereket h2{
+    color: rgb(25, 23, 84);
+    text-transform: capitalize;
+   
+}
+
+.bereket p{
+   width: 700px;
+   
+}
+.bere{
+   padding-left: 100px;
+}
+.bere p{
+    word-spacing: 10px;
+    padding-top: 5px;
+    
+    line-break:15px;
+    text-align:left;
+    width: 600px;
+}
+.bere h2{
+    text-align:left;
+    color:rgb(7, 14, 121);
+    padding-top:15px;
+    padding-bottom: 10px;
+}
+.kaka ul li{
+    list-style: none;
+    line-break: 30px;
+
+    
+ font-family: serif;
+ text-transform: capitalize;
+    padding: 10px;
+}
+.kaka h2{
+    color: rgb(25, 19, 96);
+}
+.kaka{
+    margin-top: 10px;
+}
+.netsi h2{
+    text-transform: capitalize;
+    margin-top: 10px;
+    text-align: left;
+    color: rgb(17, 17, 49);
+}
+.netsi{
+    margin-left: 60px;
+}
+.netsi input{
+    width: 500px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.netsi h6{
+      padding-top: 10px;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 3px;
+    text-transform: capitalize;
+}
+.netsi input.kale{
+    padding-top: 80px;
+
+}
+.netsi button{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.about img{
+    float: left;
+    padding-right: 10px;
+
+
+}
+.dorka{
+    background-color: rgba(46, 48, 179, 0.363);
+    height: 40px;
+}
+.ka ul{
+    
+  justify-content: end;
+  margin-left:500px;
+  list-style: none;
+}
+.ka li a{
+    color: white;
+    text-decoration: none;
+   
+}
+.ka li{padding-left: 10px;
+justify-content: end;
+padding-right: 10px;
+}
+.do p{
+    font-size: 20px;
+}
